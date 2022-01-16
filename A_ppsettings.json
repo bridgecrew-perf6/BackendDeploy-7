@@ -1,0 +1,13 @@
+{
+  "ConnectionStrings": {
+    "DefaulfConnection": "Server=localhost;Port=3306;Database=proyecto;Uid=root;password=Redox2011"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}
